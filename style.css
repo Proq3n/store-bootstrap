@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600&display=swap");
+
+body {
+    background: #e9ecef;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.navbar-g {
+    background-color: #1d3557;
+}
+
+.main-color {
+    color: #e63946 !important;
+    font-weight: 700;
+}
+
